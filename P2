@@ -1,0 +1,3 @@
+my_dogs = 2
+my_dogs = ("Cokie","Mila")
+print (my_dogs)
