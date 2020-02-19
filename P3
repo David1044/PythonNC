@@ -1,0 +1,8 @@
+my_dogs = 2
+my_dogs = "Mila" " " "Cokie"
+print (my_dogs)
+print("Im cool")
+print ("Hi Davicho")
+print('Hello \nworld')
+print('Hello \tworld')
+len('Davicho')
